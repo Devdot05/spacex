@@ -1,0 +1,91 @@
+
+.one{
+    background-image: url(/images/imageye___-_SES_24_Astra_1_P_pad39a_DSC_8165_desktop_8755a96a57.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.one a{
+    padding: 20px 40px;
+    border: 2px solid white;
+    margin-bottom: -50px;
+    font-size: 18px;
+}
+
+.one .one-1{
+    padding-top: 340px;
+    color: white;
+    padding-left: 80px;
+}
+
+.two{
+    background-image: url(/images/imageye___-_Flight_4_Website_Desktop_3_ef4f400e2d.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.two a{
+    padding: 20px 40px;
+    border: 2px solid white;
+    margin-bottom: -50px;
+    font-size: 18px;
+}
+
+.two .one-1{
+    padding-top: 340px;
+    color: white;
+    padding-left: 80px;
+}
+
+.four{
+    background-image: url(/images/Eva_Suit_Desktop_alternate_1cf9bae18e.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.four a{
+    padding: 20px 40px;
+    border: 2px solid white;
+    margin-bottom: -50px;
+    font-size: 18px;
+}
+
+.four .one-1{
+    padding-top: 340px;
+    color: white;
+    padding-left: 80px;
+}
+
+.five{
+    background-image: url(/images/make_life_multiplanetary_desktop_3fa7cff73c.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.five a{
+    padding: 20px 40px;
+    border: 2px solid white;
+    margin-bottom: -50px;
+    font-size: 18px;
+}
+
+.five .one-1{
+    padding-top: 340px;
+    color: white;
+    padding-left: 80px;
+}
+
+.six{
+   background-color: black;
+   padding: 20px 0px;
+}
